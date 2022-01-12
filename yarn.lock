@@ -5165,6 +5165,11 @@ gatsby-page-utils@^2.5.1:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
+gatsby-plugin-google-fonts@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-fonts/-/gatsby-plugin-google-fonts-1.0.1.tgz#d71054f7bf207b9a8da227380369e18e6f4e0201"
+  integrity sha512-p1NVkn27GUnDA5qHM+Z4cCcLCJIardzZXMon3640sT4xuL/AZJbsx3HEt2KY/5oZu0UXIkytkxzV2Da4rQeUIg==
+
 gatsby-plugin-mdx@^3.5.1:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-3.5.1.tgz#50ef5b73b00be6205eb16729f0fdbbf487f43c82"
